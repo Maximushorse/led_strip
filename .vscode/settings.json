@@ -1,9 +1,11 @@
 {
-  "C_Cpp.intelliSenseEngine": "default",
-  "idf.portWin": "COM5",
-  "idf.flashType": "UART",
-  "idf.adapterTargetName": "esp32s3",
-  "idf.openOcdConfigs": [
-    "board/esp32s3-builtin.cfg"
-  ]
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.portWin": "COM5",
+    "idf.flashType": "UART",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.espIdfPathWin": "C:\\Users\\micha\\esp\\v5.3.1\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\micha\\.espressif"
 }
